@@ -46,7 +46,7 @@ class SiteSidebar extends React.Component {
             <footer>
               <SiteLinks {...this.props} />
               <p className="copyright">
-                Copyrignt &copy; 2017. All rights reserved.
+                Copyright &copy; 2017. All rights reserved.
               </p>
             </footer>
           </div>
